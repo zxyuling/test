@@ -7,7 +7,7 @@
 
 ### task2:编写功能测试
 ##### 要求:
-1. 使用计时器，计算每次测试时间
+1. 使用计时器，计算每次测试时间 
 ##### 例子:
 ```
 function test(callback,message,bool)
